@@ -57,3 +57,7 @@
   display: table;
   clear: both;
 }
+
+#odd{
+  background-color: white;
+}
