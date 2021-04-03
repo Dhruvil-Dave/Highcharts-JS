@@ -95,7 +95,7 @@ Highcharts.chart('container2', {
   },
   series: [{
     name: 'GNPA trend',
-    data: [20, 42, 65, 78, 60, 66, 55, 28, 76, 54, 75, 34]
+    data: [22, 42, 65, 78, 60, 66, 55, 28, 76, 54, 75, 34]
 
   }]
 });
